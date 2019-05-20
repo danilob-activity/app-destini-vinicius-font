@@ -9,7 +9,7 @@ public class Story {
     Answer mAnswerTop;
     Answer mAnswerBottom;
 
-    public Story (int id, Answer t, Answer b, Answer p){
+    public Story (int id, Answer t, Answer b){
         mStoryID = id;
         mAnswerTop = t;
         mAnswerBottom = b;

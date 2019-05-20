@@ -8,7 +8,7 @@ public class Answer {
     private int mAnswerID;
     Story mChildStory;
 
-    public Answer(int mId,Story p, Story c){
+    public Answer(int mId, Story c){
         mAnswerID = mId;
         mChildStory = c;
     }
