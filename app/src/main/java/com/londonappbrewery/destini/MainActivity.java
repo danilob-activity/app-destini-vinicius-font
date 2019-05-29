@@ -52,7 +52,6 @@ public class MainActivity extends AppCompatActivity {
             mT2.setAnswerBottom(mA4_2_T2);
                 mA3_1_T2.setChildStory(mT3);
                 mA4_2_T2.setChildStory(mT5);
-            mT3
 
 
         // TODO: Coloque o evento do click do botão, caso precise colocar a visibilidade no botão invisivel utilize a função
